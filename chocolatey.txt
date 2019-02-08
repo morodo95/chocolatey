@@ -1,1 +1,1 @@
-choco install bitnami-xampp  googlechrome  firefox vlc  winrar  git.install  nodejs.install  filezilla vscode npm  
+choco install bitnami-xampp googlechrome firefox vlc winrar  git.install nodejs.install filezilla vscode npm  
